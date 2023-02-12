@@ -1,0 +1,13 @@
+.object-title {
+    font-size: 30px;
+}
+
+.container {
+    margin:10px;
+}
+
+.object-content {
+    margin:5px;
+    font-family: 'Gill Sans MT';
+    font-size: 15px;
+}
